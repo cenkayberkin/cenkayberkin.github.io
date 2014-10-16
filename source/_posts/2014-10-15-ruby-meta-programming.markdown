@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Ruby meta programming"
+date: 2014-10-15 22:38:37 -0700
+comments: true
+categories:
+---
+
 #Dynamic finder methods
 
 >The aim of this article is to explain the meta programming usage of the gem [Mongoid dynamic finder]
